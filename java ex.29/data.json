@@ -1,0 +1,12 @@
+
+
+{
+    "id": 6672,
+    "name": "Maria",
+    "city": "afgoe",
+    "order": [
+        {"id":6672, "product": "ipad", "quantity": 2},
+        {"id":6672, "product": "mouse", "quantity": 4},
+        {"id":6672, "product": "laptop", "quantity": 1}
+    ]
+}
