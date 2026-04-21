@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgb(246, 209, 183);
+    padding: 2rem;
+    margin: 3rem;
+    border-radius: 5px;
+}
+#header {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 0.8rem;
+}
+
+button {
+    font-size: 1.8rem;
+}
