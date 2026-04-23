@@ -1,0 +1,14 @@
+ h1 {
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgb(70, 84, 46);
+    color: aliceblue;
+    padding: 2rem;
+    margin: 3rem;
+    border-radius: 5px;
+ }
+
+ button {
+    font-size: 1.5rem;
+    padding: 2rem;
+ }
